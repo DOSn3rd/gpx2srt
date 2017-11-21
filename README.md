@@ -5,7 +5,7 @@ Small Python script to convert GPX tracks to subtitle files for use as "video ov
 haversine =< 0.4.5  
 gpxpy =< 1.1.2  
 
-Both sould be avalible from pip
+Both should be avalible from pip
 
 -------
 
